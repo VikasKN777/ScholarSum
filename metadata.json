@@ -1,0 +1,10 @@
+{
+  "name": "ScholarSum",
+  "description": "AI-powered research paper summarizer that extracts key findings, methodology, and critical insights with academic precision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "AI-powered text analysis",
+    "Research paper summarization",
+    "Academic insight extraction"
+  ]
+}
